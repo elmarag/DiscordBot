@@ -19,4 +19,3 @@ the system should display the Node.js version installed on your computer.
 4. Initialize the project with ``npm init --yes``.
 5. Type ``node .`` to start the bot.
 6. You can do !help for a list of available commands and how to use them.
-# Extra 
