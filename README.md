@@ -1,8 +1,7 @@
 # DiscordBot
-A multifunction discord bot. The bot offers moderation functions such as kicking and banning members
+A multifunction discord bot. The bot offers moderation functions such as kicking and banning members,
 music functions for when people are in voice channels to enjoy some music, a fully functioning ticket
-system with different categories depending on what issue the user has, announcements, polls & suggestions
-and more!
+system with different categories depending on what issue the user has, announcements and more!
 # Prerequisites
 Don't forget to create a .env file in the main directory in which you will store the bot token as well as the prefix. Example:
 
